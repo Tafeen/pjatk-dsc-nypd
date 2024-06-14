@@ -9,5 +9,5 @@ Projekt ma za zadanie
     - W jakich godzinach sprzedają
     - Które miesiące są najbardziej aktywne
     - W jakich miejscach dochodzi do sprzedaży
-        - Czy są to bogate / biedne dzielnice 
-        - Jak często dochodzi do sprzedaży "przy okazji" czyli w restauracjach / sklepach
+        - Czy są to bogate / biedne dzielnice (dataset ny - check by `boro_nm`, determinuj po `median_sale_price`)
+        - Jak często dochodzi do sprzedaży "przy okazji" czyli w restauracjach / sklepach (opis)
