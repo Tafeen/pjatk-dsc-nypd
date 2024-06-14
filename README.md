@@ -1,7 +1,13 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# PJATK DSC Projekt NYPD
+Projekt ma za zadanie
+- prezentacja wizualizacji dot. danych
+- stworzenie modelu do predykcji
+- stworzenie prezentacji
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
-
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
-
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+# Przedstawiamy
+- Historia dot. drugs
+    - W jakich godzinach sprzedają
+    - Które miesiące są najbardziej aktywne
+    - W jakich miejscach dochodzi do sprzedaży
+        - Czy są to bogate / biedne dzielnice 
+        - Jak często dochodzi do sprzedaży "przy okazji" czyli w restauracjach / sklepach
