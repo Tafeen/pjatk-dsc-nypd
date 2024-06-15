@@ -16,4 +16,4 @@ if __name__ == '__main__':
     dataFrame = loadFromCSV('data.csv')
     print(dataFrame.shape)
     firstDataFrameToWorkWith = getDataFrameWithSelectedColumns(dataFrame, [])
-    secondDataFrameToWorkWith = getDataFrameWithSelectedColumns(firstDataFrameToWorkWith, [])
+    secondDataFrameToWorkWith = getDataFrameWithSelectedColumns(dataFrame, [])
